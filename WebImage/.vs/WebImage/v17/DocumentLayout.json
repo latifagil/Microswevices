@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebImage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A02B5E34-828B-4719-9BE4-118D6239CED0}|WebImage\\WebImage.csproj|c:\\users\\gilaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\webimage\\webimage\\services\\imageservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02B5E34-828B-4719-9BE4-118D6239CED0}|WebImage\\WebImage.csproj|solutionrelative:webimage\\services\\imageservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02B5E34-828B-4719-9BE4-118D6239CED0}|WebImage\\WebImage.csproj|c:\\users\\gilaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\webimage\\webimage\\interfaces\\iimageservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02B5E34-828B-4719-9BE4-118D6239CED0}|WebImage\\WebImage.csproj|solutionrelative:webimage\\interfaces\\iimageservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02B5E34-828B-4719-9BE4-118D6239CED0}|WebImage\\WebImage.csproj|c:\\users\\gilaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\webimage\\webimage\\db\\dbimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02B5E34-828B-4719-9BE4-118D6239CED0}|WebImage\\WebImage.csproj|solutionrelative:webimage\\db\\dbimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02B5E34-828B-4719-9BE4-118D6239CED0}|WebImage\\WebImage.csproj|c:\\users\\gilaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\webimage\\webimage\\model\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02B5E34-828B-4719-9BE4-118D6239CED0}|WebImage\\WebImage.csproj|solutionrelative:webimage\\model\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02B5E34-828B-4719-9BE4-118D6239CED0}|WebImage\\WebImage.csproj|c:\\users\\gilaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\webimage\\webimage\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A02B5E34-828B-4719-9BE4-118D6239CED0}|WebImage\\WebImage.csproj|solutionrelative:webimage\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02B5E34-828B-4719-9BE4-118D6239CED0}|WebImage\\WebImage.csproj|c:\\users\\gilaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\webimage\\webimage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A02B5E34-828B-4719-9BE4-118D6239CED0}|WebImage\\WebImage.csproj|solutionrelative:webimage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02B5E34-828B-4719-9BE4-118D6239CED0}|WebImage\\WebImage.csproj|c:\\users\\gilaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\webimage\\webimage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02B5E34-828B-4719-9BE4-118D6239CED0}|WebImage\\WebImage.csproj|solutionrelative:webimage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02B5E34-828B-4719-9BE4-118D6239CED0}|WebImage\\WebImage.csproj|c:\\users\\gilaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\webimage\\webimage\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02B5E34-828B-4719-9BE4-118D6239CED0}|WebImage\\WebImage.csproj|solutionrelative:webimage\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02B5E34-828B-4719-9BE4-118D6239CED0}|WebImage\\WebImage.csproj|c:\\users\\gilaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\webimage\\webimage\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A02B5E34-828B-4719-9BE4-118D6239CED0}|WebImage\\WebImage.csproj|solutionrelative:webimage\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02B5E34-828B-4719-9BE4-118D6239CED0}|WebImage\\WebImage.csproj|c:\\users\\gilaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\webimage\\webimage\\migrations\\20241122073614_pop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02B5E34-828B-4719-9BE4-118D6239CED0}|WebImage\\WebImage.csproj|solutionrelative:webimage\\migrations\\20241122073614_pop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241122073614_pop.cs",
+              "DocumentMoniker": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebImage\\WebImage\\Migrations\\20241122073614_pop.cs",
+              "RelativeDocumentMoniker": "WebImage\\Migrations\\20241122073614_pop.cs",
+              "ToolTip": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebImage\\WebImage\\Migrations\\20241122073614_pop.cs",
+              "RelativeToolTip": "WebImage\\Migrations\\20241122073614_pop.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:36:14.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebImage\\WebImage\\appsettings.json",
+              "RelativeDocumentMoniker": "WebImage\\appsettings.json",
+              "ToolTip": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebImage\\WebImage\\appsettings.json",
+              "RelativeToolTip": "WebImage\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-22T07:32:22.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebImage\\WebImage\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebImage\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebImage\\WebImage\\appsettings.Development.json",
+              "RelativeToolTip": "WebImage\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-19T10:09:03.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebImage\\WebImage\\Model\\Image.cs",
+              "RelativeDocumentMoniker": "WebImage\\Model\\Image.cs",
+              "ToolTip": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebImage\\WebImage\\Model\\Image.cs",
+              "RelativeToolTip": "WebImage\\Model\\Image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:35:11.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBImage.cs",
+              "DocumentMoniker": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebImage\\WebImage\\DB\\DBImage.cs",
+              "RelativeDocumentMoniker": "WebImage\\DB\\DBImage.cs",
+              "ToolTip": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebImage\\WebImage\\DB\\DBImage.cs",
+              "RelativeToolTip": "WebImage\\DB\\DBImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:26:56.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IImageServices.cs",
+              "DocumentMoniker": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebImage\\WebImage\\Interfaces\\IImageServices.cs",
+              "RelativeDocumentMoniker": "WebImage\\Interfaces\\IImageServices.cs",
+              "ToolTip": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebImage\\WebImage\\Interfaces\\IImageServices.cs",
+              "RelativeToolTip": "WebImage\\Interfaces\\IImageServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T21:25:36.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImageServices.cs",
+              "DocumentMoniker": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebImage\\WebImage\\Services\\ImageServices.cs",
+              "RelativeDocumentMoniker": "WebImage\\Services\\ImageServices.cs",
+              "ToolTip": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebImage\\WebImage\\Services\\ImageServices.cs",
+              "RelativeToolTip": "WebImage\\Services\\ImageServices.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T21:10:16.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebImage\\WebImage\\Program.cs",
+              "RelativeDocumentMoniker": "WebImage\\Program.cs",
+              "ToolTip": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebImage\\WebImage\\Program.cs",
+              "RelativeToolTip": "WebImage\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwBoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T19:35:56.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ImageController.cs",
+              "DocumentMoniker": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebImage\\WebImage\\Controllers\\ImageController.cs",
+              "RelativeDocumentMoniker": "WebImage\\Controllers\\ImageController.cs",
+              "ToolTip": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebImage\\WebImage\\Controllers\\ImageController.cs",
+              "RelativeToolTip": "WebImage\\Controllers\\ImageController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAewBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T18:06:46.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebImage\\WebImage\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebImage\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebImage\\WebImage\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebImage\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T06:49:17.79Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

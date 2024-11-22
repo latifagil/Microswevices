@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "wDQ/TC0rKo1wkizybUWK9e4w6C8yCB6Rt1O17I+YDm0=",
+  "Source": "WebImage",
+  "BasePath": "_content/WebImage",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebImage\\wwwroot",
+      "Source": "WebImage",
+      "ContentRoot": "C:\\Users\\gilaz\\OneDrive\\Рабочий стол\\WebImage\\WebImage\\wwwroot\\",
+      "BasePath": "_content/WebImage",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\gilaz\\OneDrive\\Рабочий стол\\WebImage\\WebImage\\wwwroot\\uploads\\i.webp",
+      "SourceId": "WebImage",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gilaz\\OneDrive\\Рабочий стол\\WebImage\\WebImage\\wwwroot\\",
+      "BasePath": "_content/WebImage",
+      "RelativePath": "uploads/i.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\i.webp"
+    },
+    {
+      "Identity": "C:\\Users\\gilaz\\OneDrive\\Рабочий стол\\WebImage\\WebImage\\wwwroot\\uploads\\Зарипов чм.docx",
+      "SourceId": "WebImage",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gilaz\\OneDrive\\Рабочий стол\\WebImage\\WebImage\\wwwroot\\",
+      "BasePath": "_content/WebImage",
+      "RelativePath": "uploads/Зарипов чм.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Зарипов чм.docx"
+    }
+  ]
+}

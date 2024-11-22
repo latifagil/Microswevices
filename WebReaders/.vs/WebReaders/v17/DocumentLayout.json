@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebReaders\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BE307-73CC-4E6A-8137-BB8B4D93FBD2}|WebReaders\\WebReaders.csproj|c:\\users\\gilaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\webreaders\\webreaders\\migrations\\20241122073828_pip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BE307-73CC-4E6A-8137-BB8B4D93FBD2}|WebReaders\\WebReaders.csproj|solutionrelative:webreaders\\migrations\\20241122073828_pip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BE307-73CC-4E6A-8137-BB8B4D93FBD2}|WebReaders\\WebReaders.csproj|c:\\users\\gilaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\webreaders\\webreaders\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F3BE307-73CC-4E6A-8137-BB8B4D93FBD2}|WebReaders\\WebReaders.csproj|solutionrelative:webreaders\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BE307-73CC-4E6A-8137-BB8B4D93FBD2}|WebReaders\\WebReaders.csproj|c:\\users\\gilaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\webreaders\\webreaders\\service\\readerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BE307-73CC-4E6A-8137-BB8B4D93FBD2}|WebReaders\\WebReaders.csproj|solutionrelative:webreaders\\service\\readerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BE307-73CC-4E6A-8137-BB8B4D93FBD2}|WebReaders\\WebReaders.csproj|c:\\users\\gilaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\webreaders\\webreaders\\interfaces\\ireaderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BE307-73CC-4E6A-8137-BB8B4D93FBD2}|WebReaders\\WebReaders.csproj|solutionrelative:webreaders\\interfaces\\ireaderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BE307-73CC-4E6A-8137-BB8B4D93FBD2}|WebReaders\\WebReaders.csproj|c:\\users\\gilaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\webreaders\\webreaders\\controllers\\readercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BE307-73CC-4E6A-8137-BB8B4D93FBD2}|WebReaders\\WebReaders.csproj|solutionrelative:webreaders\\controllers\\readercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BE307-73CC-4E6A-8137-BB8B4D93FBD2}|WebReaders\\WebReaders.csproj|c:\\users\\gilaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\webreaders\\webreaders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BE307-73CC-4E6A-8137-BB8B4D93FBD2}|WebReaders\\WebReaders.csproj|solutionrelative:webreaders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BE307-73CC-4E6A-8137-BB8B4D93FBD2}|WebReaders\\WebReaders.csproj|c:\\users\\gilaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\webreaders\\webreaders\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F3BE307-73CC-4E6A-8137-BB8B4D93FBD2}|WebReaders\\WebReaders.csproj|solutionrelative:webreaders\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BE307-73CC-4E6A-8137-BB8B4D93FBD2}|WebReaders\\WebReaders.csproj|c:\\users\\gilaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\webreaders\\webreaders\\model\\readers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BE307-73CC-4E6A-8137-BB8B4D93FBD2}|WebReaders\\WebReaders.csproj|solutionrelative:webreaders\\model\\readers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BE307-73CC-4E6A-8137-BB8B4D93FBD2}|WebReaders\\WebReaders.csproj|c:\\users\\gilaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\webreaders\\webreaders\\db\\dbreaders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BE307-73CC-4E6A-8137-BB8B4D93FBD2}|WebReaders\\WebReaders.csproj|solutionrelative:webreaders\\db\\dbreaders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BE307-73CC-4E6A-8137-BB8B4D93FBD2}|WebReaders\\WebReaders.csproj|c:\\users\\gilaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\webreaders\\webreaders\\model\\arend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BE307-73CC-4E6A-8137-BB8B4D93FBD2}|WebReaders\\WebReaders.csproj|solutionrelative:webreaders\\model\\arend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BE307-73CC-4E6A-8137-BB8B4D93FBD2}|WebReaders\\WebReaders.csproj|c:\\users\\gilaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\webreaders\\webreaders\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F3BE307-73CC-4E6A-8137-BB8B4D93FBD2}|WebReaders\\WebReaders.csproj|solutionrelative:webreaders\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241122073828_pip.cs",
+              "DocumentMoniker": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebReaders\\WebReaders\\Migrations\\20241122073828_pip.cs",
+              "RelativeDocumentMoniker": "WebReaders\\Migrations\\20241122073828_pip.cs",
+              "ToolTip": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebReaders\\WebReaders\\Migrations\\20241122073828_pip.cs",
+              "RelativeToolTip": "WebReaders\\Migrations\\20241122073828_pip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:38:28.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Arend.cs",
+              "DocumentMoniker": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebReaders\\WebReaders\\Model\\Arend.cs",
+              "RelativeDocumentMoniker": "WebReaders\\Model\\Arend.cs",
+              "ToolTip": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebReaders\\WebReaders\\Model\\Arend.cs",
+              "RelativeToolTip": "WebReaders\\Model\\Arend.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:44:38.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebReaders\\WebReaders\\Program.cs",
+              "RelativeDocumentMoniker": "WebReaders\\Program.cs",
+              "ToolTip": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebReaders\\WebReaders\\Program.cs",
+              "RelativeToolTip": "WebReaders\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T07:30:35.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReaderService.cs",
+              "DocumentMoniker": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebReaders\\WebReaders\\Service\\ReaderService.cs",
+              "RelativeDocumentMoniker": "WebReaders\\Service\\ReaderService.cs",
+              "ToolTip": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebReaders\\WebReaders\\Service\\ReaderService.cs",
+              "RelativeToolTip": "WebReaders\\Service\\ReaderService.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAQwHwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T07:29:08.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IReaderServices.cs",
+              "DocumentMoniker": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebReaders\\WebReaders\\Interfaces\\IReaderServices.cs",
+              "RelativeDocumentMoniker": "WebReaders\\Interfaces\\IReaderServices.cs",
+              "ToolTip": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebReaders\\WebReaders\\Interfaces\\IReaderServices.cs",
+              "RelativeToolTip": "WebReaders\\Interfaces\\IReaderServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T07:28:17.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DBReaders.cs",
+              "DocumentMoniker": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebReaders\\WebReaders\\DB\\DBReaders.cs",
+              "RelativeDocumentMoniker": "WebReaders\\DB\\DBReaders.cs",
+              "ToolTip": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebReaders\\WebReaders\\DB\\DBReaders.cs",
+              "RelativeToolTip": "WebReaders\\DB\\DBReaders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T07:13:34.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReaderController.cs",
+              "DocumentMoniker": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebReaders\\WebReaders\\Controllers\\ReaderController.cs",
+              "RelativeDocumentMoniker": "WebReaders\\Controllers\\ReaderController.cs",
+              "ToolTip": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebReaders\\WebReaders\\Controllers\\ReaderController.cs",
+              "RelativeToolTip": "WebReaders\\Controllers\\ReaderController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T07:27:37.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebReaders\\WebReaders\\appsettings.json",
+              "RelativeDocumentMoniker": "WebReaders\\appsettings.json",
+              "ToolTip": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebReaders\\WebReaders\\appsettings.json",
+              "RelativeToolTip": "WebReaders\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-13T07:36:37.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebReaders\\WebReaders\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebReaders\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebReaders\\WebReaders\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebReaders\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T21:24:05.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Readers.cs",
+              "DocumentMoniker": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebReaders\\WebReaders\\Model\\Readers.cs",
+              "RelativeDocumentMoniker": "WebReaders\\Model\\Readers.cs",
+              "ToolTip": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebReaders\\WebReaders\\Model\\Readers.cs",
+              "RelativeToolTip": "WebReaders\\Model\\Readers.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T12:01:13.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebReaders\\WebReaders\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebReaders\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\gilaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\microservices\\WebReaders\\WebReaders\\appsettings.Development.json",
+              "RelativeToolTip": "WebReaders\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-14T17:45:48.796Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
